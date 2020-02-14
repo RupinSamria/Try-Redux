@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "react": "^16.12.0",
-    "redux": "^4.0.5"
+    "react-logger": "^1.1.0",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6"
   }
 }
